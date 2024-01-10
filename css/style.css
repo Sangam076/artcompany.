@@ -1,0 +1,16 @@
+
+  body{
+    background-color:#67729D;
+  }
+  hr{
+    border-style: dashed;
+    border-width: 1 px;
+  }
+  h1{
+    animation-name:initial ;
+    color:#750E21;
+  }
+
+  img{
+    height: 150px;
+  }
